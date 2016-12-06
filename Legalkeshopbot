@@ -1,0 +1,26 @@
+{
+    "update_id": 300432135 ,
+    "message": {
+        "message_id": 300432135,
+        "from": {
+            "id": 284476186,
+            "first_name": " @Legalkeshopbot ,
+            "username": @Legalkeshopbot "
+        },
+        "chat": {
+            "id: " 300432135 ,
+            "first_name": "legalkeshopbot",
+            "username": "",
+            "type": "private"
+        }, legalkeshopbot
+        "date": 1480994661,
+        "text": "/start",
+        "entities": [
+            {
+                "type": "bot_command",
+                "offset": 0,
+                "length": 6
+            }"add"
+        ]
+    }
+}
